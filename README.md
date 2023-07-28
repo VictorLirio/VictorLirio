@@ -9,9 +9,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VictorLirio&bg_color=0d1117&color=1e90ff&line=1e90ff&point=2c4a68&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VictorLirio&bg_color=0d1117&color=1e90ff&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+
 
 <div align="center"> 
 <a href="https://instagram.com/vitera_dias" target="_blank"><img src="https://img.shields.io/badge/-Instagram-DC143C?style=for-the-badge&logo=instagram&logoColor=white"</a>
